@@ -12,7 +12,7 @@ namespace SomerenDAL
 {
     public class Room_DAO : Base
     {
-
+        // Excecutes SQL query for the Room table. 
         public List<Room> Db_Get_All_Rooms()
         {
             string query = "SELECT roomId, capacity, type FROM Room";
@@ -20,6 +20,7 @@ namespace SomerenDAL
             return ReadTables(ExecuteSelectQuery(query, sqlParameters));
         }
 
+        // Attaches query data to object properties.  
         private List<Room> ReadTables(DataTable dataTable)
         {
             List<Room> rooms = new List<Room>();

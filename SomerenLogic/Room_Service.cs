@@ -22,18 +22,13 @@ namespace SomerenLogic
             catch (Exception)
             {
                 // something went wrong connecting to the database, so we will add a fake student to the list to make sure the rest of the application continues working!
-                List<Room> room = new List<Room>();
-                /*Student a = new Student();
-                a.Name = "Mr. Test Student";
-                a.Number = 474791;
-                a.BirthDate = DateTime.Parse("1990-07-04");
-                student.Add(a);
-                Student b = new Student();
-                b.Name = "Mrs. Test Student";
-                b.Number = 197474;
-                b.BirthDate = DateTime.Parse("2019-03-04");
-                student.Add(b);*/
-                return room;
+                List<Room> rooms = new List<Room>();
+                Room r = new Room();
+                r.Number = 201;
+                r.Capacity = 3;
+                r.Type = true;
+                rooms.Add(r);
+                return rooms;
                 throw new Exception("Someren couldn't connect to the database");
             }
 

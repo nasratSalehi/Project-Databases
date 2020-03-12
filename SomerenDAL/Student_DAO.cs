@@ -12,7 +12,7 @@ namespace SomerenDAL
 {
     public class Student_DAO : Base
     {
-      
+        // Excecutes SQL query for the Student table. 
         public List<Student> Db_Get_All_Students()
         {
             string query = "SELECT student_id, student_name, birthDate FROM Student";
@@ -20,6 +20,7 @@ namespace SomerenDAL
             return ReadTables(ExecuteSelectQuery(query, sqlParameters));
         }
 
+        // Attaches query data to object properties.  
         private List<Student> ReadTables(DataTable dataTable)
         {
             List<Student> students = new List<Student>();

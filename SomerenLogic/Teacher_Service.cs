@@ -29,7 +29,7 @@ namespace SomerenLogic
                 t.Number = 474791;
                 teachers.Add(t);
                 return teachers;
-                //throw new Exception("Someren couldn't connect to the database");
+                throw new Exception("Someren couldn't connect to the database");
             }
 
         }

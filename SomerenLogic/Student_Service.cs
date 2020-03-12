@@ -35,7 +35,7 @@ namespace SomerenLogic
                 b.BirthDate = DateTime.Parse("2019-03-04");
                 student.Add(b);
                 return student;
-                //throw new Exception("Someren couldn't connect to the database");
+                throw new Exception("Someren couldn't connect to the database");
             }
 
         }
