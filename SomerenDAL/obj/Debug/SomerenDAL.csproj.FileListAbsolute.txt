@@ -31,3 +31,12 @@ C:\Users\Sem\Desktop\Project-Databases\SomerenDAL\obj\Debug\SomerenDAL.csprojAss
 C:\Users\Sem\Desktop\Project-Databases\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
 C:\Users\Sem\Desktop\Project-Databases\SomerenDAL\obj\Debug\SomerenDAL.dll
 C:\Users\Sem\Desktop\Project-Databases\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenDAL\obj\Debug\SomerenDAL.pdb
