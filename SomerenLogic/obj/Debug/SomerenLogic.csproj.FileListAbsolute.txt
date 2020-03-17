@@ -38,3 +38,14 @@ C:\Users\Sem\Desktop\Project-Databases\SomerenLogic\obj\Debug\SomerenLogic.cspro
 C:\Users\Sem\Desktop\Project-Databases\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
 C:\Users\Sem\Desktop\Project-Databases\SomerenLogic\obj\Debug\SomerenLogic.dll
 C:\Users\Sem\Desktop\Project-Databases\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\tark-\Documents\GitHub\Project-Databases\SomerenLogic\obj\Debug\SomerenLogic.pdb
