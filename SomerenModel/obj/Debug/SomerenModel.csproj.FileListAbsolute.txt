@@ -13,3 +13,8 @@ C:\Users\Lenovo\Desktop\Project Databases\Someren1920F\Someren1920F\SomerenModel
 C:\Users\Lenovo\Desktop\Project Databases\Someren1920F\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
 C:\Users\Lenovo\Desktop\Project Databases\Someren1920F\Someren1920F\SomerenModel\obj\Debug\SomerenModel.dll
 C:\Users\Lenovo\Desktop\Project Databases\Someren1920F\Someren1920F\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\Sem\Desktop\Project-Databases\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\Sem\Desktop\Project-Databases\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\Sem\Desktop\Project-Databases\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+C:\Users\Sem\Desktop\Project-Databases\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\Sem\Desktop\Project-Databases\SomerenModel\obj\Debug\SomerenModel.pdb
